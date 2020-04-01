@@ -37,8 +37,7 @@ h2 {
 }
 figure.imgTro{
 	position:relative;
-	padding: 0px;
-	margin: 0px;
+	
 }
 figure.imgTro h3{
 	position:absolute;
@@ -57,20 +56,40 @@ figure.imgTro p {
 }
 figure#prataa {
 	display:block;
-	top: 370px;
-	left: 450px;
+	top: 440px;
+	left: 620px;
 	position:absolute;
 	padding-right:250px;
 	padding-left:-20px;
 	margin:0px;
 }
-figure#bronze {
-		display:block;
-	top: 370px;
-	left: 820px;
-	position:absolute;
-	padding-right:300px;
-	padding-left: 0px;
+figure.imgTroo img {
+	border: 4px solid white;
+	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
 	
 }
+figure.imgTroo {
+	position:relative;
+}
+	figure.imgTroo h3 {
+		
+		position:absolute;
+	top: -20px;
+	left: 260px;
+	}
+	figure.imgTroo p {
+		position:absolute;
+	top: 20px;
+	left: 260px;
 	
+	}
+	
+	figure#pretoo{
+		display:block;
+	top: 715px;
+	left: 600px;
+	position:absolute;
+	padding-right:270px;
+
+		
+	}
