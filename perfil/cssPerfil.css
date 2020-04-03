@@ -80,6 +80,18 @@ figure.dois h3{
 figure.dois p {
 	padding-left: 60px;	
 	
+
+}
+figure.tress img{
+	border: 4px solid white;
+	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
+	
+}
+figure.tress h3{
+padding-left: 30px;
+}
+figure.tress p{
+padding-left: 60px;	
 	
 }
 
