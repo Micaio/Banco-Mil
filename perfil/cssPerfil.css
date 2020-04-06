@@ -4,7 +4,7 @@ table#tabelaa {
 	display: block;
 	border: 1px solid #606060;
 	top: 110px;
-	left: 400px;
+	left: 510px;
 	position: absolute;
 		border-spacing:0px;
 	 margin-left: auto;
@@ -24,6 +24,7 @@ table#tabelaa td{
 background-color: #cecece;
 
   }
+
  header#cabecalho {
 	
 	border: 2px solid #606060;
@@ -50,38 +51,26 @@ h2 {
 	padding: 0px;
 	
 }
-figure.troo img{
-	border: 4px solid white;
+header#cabecalho img.masss {
+	 border:4px solid white;
 	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
-	
-}
-figure.troo h3{
-padding-left: 30px;
-}
-figure.troo p{
-padding-left: 60px;	
-	
-}
-figure.dois {
+	margin: 0px;
 	dispaly:block;
+	left:320px;
+	top:231px;
 	position:absolute;
-	top: 420px;
-	left:180px;
 }
-figure.dois img {
-		border: 4px solid white;
+header#cabecalho img.meddd {
+	 border:4px solid white;
 	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
-	
+	margin: 0px;
+	dispaly:block;
+	left:320px;
+	top:100px;
+	position:absolute;
 }
-figure.dois h3{
-	padding-left: 30px;
-	
-}
-figure.dois p {
-	padding-left: 60px;	
-	
 
-}
+
 figure.tress img{
 	border: 4px solid white;
 	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
@@ -94,25 +83,46 @@ figure.tress p{
 padding-left: 60px;	
 	
 }
+nav#cltr img{
+border:4px solid white;
+box-shadow:1px 1px 4px rgba(0,0,0,.8);
+}
+nav#cltr ul{
+list-style: none;	
+}
+nav#cltr li{
+	display:inline-block;
+}
+nav#cltr h3{
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+nav#cltr p{
+	text-align:center;
+	border: 2px solid #606060;
+}
+table#tabelaaa {
+	display: block;
+	border: 1px solid #606060;
+	top: 110px;
+	left: 770px;
+	position: absolute;
+		border-spacing:0px;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+table#tabelaaa td{
+	border:1px solid #606060;
+	padding: 18px;
+	text-align:center;
+}
+ table#tabelaaa   td.ce{
+	 color:white;
+	 background-color: #606060;
+	 
+ }
+  table#tabelaaa   td.ca{
+background-color: #cecece;
 
-figure.quatroo {
-	dispaly:block;
-	position:absolute;
-	top: 420px;
-	left:350px;
-}
-figure.quatroo img {
-		border: 4px solid white;
-	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
-	
-}
-figure.quatroo h3{
-	padding-left: 30px;
-	
-}
-figure.quatroo p {
-	padding-left: 60px;	
-	
-
-}
-
+  }

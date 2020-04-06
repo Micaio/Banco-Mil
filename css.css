@@ -59,6 +59,11 @@ figure.imgTro p {
 	left: 150px;
 	
 }
+figure.imgTro h4{
+	position:absolute;
+	top: 100px;
+	left: 150px;
+}
 figure#prataa {
 	display:block;
 	top: 440px;
@@ -88,6 +93,13 @@ figure.imgTroo {
 	left: 260px;
 	
 	}
+	figure.imgTroo h4 {
+		
+		position:absolute;
+	top: 100px;
+	left: 260px;
+	}
+
 	
 	figure#pretoo{
 		display:block;
@@ -145,3 +157,33 @@ figure.imgTroo {
 		position: absolute;
 		
 	}
+	
+	
+	
+	
+	
+	
+	
+	figure.mascotes img{
+		border: 4px solid white;
+		box-shadow: 1px 1px 4px rgba(0,0,0,.8);
+	}
+	figure.mascotes h3{
+		padding: 0px;
+		margin:0px;
+		text-align:justify 0px;
+	}
+	figure.mascotes p{
+	color:red;
+	}
+	nav#pets ul{
+		list-style: none;
+		
+	}
+	nav#pets li{
+		display:inline-block;
+		padding: 0px;
+		margin-right:0px;
+		
+	}
+	
