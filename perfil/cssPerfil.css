@@ -95,3 +95,24 @@ padding-left: 60px;
 	
 }
 
+figure.quatroo {
+	dispaly:block;
+	position:absolute;
+	top: 420px;
+	left:350px;
+}
+figure.quatroo img {
+		border: 4px solid white;
+	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
+	
+}
+figure.quatroo h3{
+	padding-left: 30px;
+	
+}
+figure.quatroo p {
+	padding-left: 60px;	
+	
+
+}
+
