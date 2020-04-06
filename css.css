@@ -119,47 +119,23 @@ figure.imgTroo {
 	padding-right:270px;
 	}
 	figure.parti img {
-			border: 4px solid white;
+    border: 4px solid white;
 	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
-	
-		
 	}
-	figure#thaylon {
-		dispaly:block;
-		top: 1320px;
-		left: 350px;
-		position: absolute;
+	figure.parti h4{
+     text-align:center;
+	 padding:10px;
+	 margin:10px;
 	}
-	figure#iury {
-	dispaly:block;
-		top: 1320px;
-		left: 620px;
-		position: absolute;	
+	figure.parti {
+		padding:5px;
+		margin:5px;
 	}
-	figure#wallisson {
-		dispaly:block;
-		top: 1320px;
-		left: 880px;
-		position: absolute;
-		
+	figure.parti a{
+	text-decoration:none;
+	color: white;
+	background-color: #606060;
 	}
-	figure#gustavom {
-		dispaly:block;
-		top: 1630px;
-		left: 480px;
-		position: absolute;
-		
-	}
-	figure#gustavog {
-		dispaly:block;
-		top: 1630px;
-		left: 880px;
-		position: absolute;
-		
-	}
-	
-	
-	
 	
 	
 	
@@ -185,5 +161,16 @@ figure.imgTroo {
 		padding: 0px;
 		margin-right:0px;
 		
+		
 	}
 	
+	
+	
+	
+	
+	nav#parti ul{
+		list-style: none;
+	}
+	nav#parti li{
+		display:inline-block;
+	}
