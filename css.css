@@ -55,11 +55,6 @@ h2 {
 		padding:5px;
 		margin:5px;
 	}
-	figure.parti a{
-	text-decoration:none;
-	color: white;
-	background-color: #606060;
-	}
 	
 	
 	
@@ -158,9 +153,10 @@ h2 {
 	nav#medalhas figure{
 		
 		position:relative;
-		margin:2px;
-		padding-right:125px;
-		padding-left:0px;
+		margin-left:0px;
+		margin-right:0px;
+		margin-top:0px;
+		padding-right:120px;
 	}
 	nav#medalhas figcaption{
 		position:absolute;
@@ -169,4 +165,9 @@ h2 {
 	}
 	nav#medalhas li {
 		display:inline-block;
+	}
+	h4#ult {
+		text-align:center;
+		text-transform: uppercase;
+		
 	}
