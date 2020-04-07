@@ -41,60 +41,7 @@ h2 {
 	margin: 40px auto 20px auto;
 }
 
-figure#prataa {
-	display:block;
-	top: 440px;
-	left: 620px;
-	position:absolute;
-	padding-right:250px;
-	padding-left:-20px;
-	margin:0px;
-}
-figure.imgTroo img {
-	border: 4px solid white;
-	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
-	
-}
-figure.imgTroo {
-	position:relative;
-}
-	figure.imgTroo h3 {
-		
-		position:absolute;
-	top: -20px;
-	left: 260px;
-	}
-	figure.imgTroo p {
-		position:absolute;
-	top: 20px;
-	left: 260px;
-	
-	}
-	figure.imgTroo h4 {
-		
-		position:absolute;
-	top: 100px;
-	left: 260px;
-	}
 
-	
-	figure#pretoo{
-		display:block;
-	top: 715px;
-	left: 600px;
-	position:absolute;
-	padding-right:270px;
-
-		
-	}
-	figure#perdedo2{
-		
-				display:block;
-	top: 1000px;
-	left: 620px;
-	position:absolute;
-	padding-right:270px;
-	}
 	figure.parti img {
     border: 4px solid white;
 	box-shadow: 1px 1px 4px rgba(0,0,0,.5);
@@ -169,11 +116,57 @@ figure.imgTroo {
 	nav#oscla img{
 	border: 4px solid white;
 	box-shadow:1px 1px 4px rgba(0,0,0,.8);
-
 	}
 	nav#oscla ul{
 	list-style: none;
 	}
 	nav#oscla li{
 	display:inline-block;
+	}
+	
+	
+	
+	nav#trclaa img{
+	border: 4px solid white;
+	box-shadow:1px 1px 4px rgba(0,0,0,.8);	
+	}
+	nav#trclaa ul{
+	list-style: none;
+	}
+	nav#trclaa figure{
+	
+	position:relative;
+	margin:10px;
+	padding-right:290px;
+	}
+	nav#trclaa figcaption{
+	display:block;
+	top:0px;
+	position:absolute;
+	left:270px;
+	}
+	nav#trclaa li{
+	display:inline-block;
+	}
+	nav#medalhas img{
+	border: 4px solid white;
+	box-shadow:1px 1px 4px rgba(0,0,0,.8);	
+	}
+	nav#medalhas ul{
+		list-style: none;
+	}
+	nav#medalhas figure{
+		
+		position:relative;
+		margin:2px;
+		padding-right:125px;
+		padding-left:0px;
+	}
+	nav#medalhas figcaption{
+		position:absolute;
+		top:-20px;
+		left:150px;
+	}
+	nav#medalhas li {
+		display:inline-block;
 	}
