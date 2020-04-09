@@ -126,3 +126,22 @@ table#tabelaaa td{
 background-color: #cecece;
 
   }
+nav.rinchando ul{
+	list-style:none;	
+}
+nav.rinchando li{
+	display:inline-block;	
+}
+nav.rinchando img{
+	border:4px solid white;
+	box-shadow:1px 1px 4px rgba(0,0,0,.8);
+}
+nav.rinchando h4{
+margin:0px;
+padding:0px;
+text-align:center;	
+}
+nav.rinchando figure{
+	display:block;
+	position:relative;
+}
