@@ -171,3 +171,27 @@ h2 {
 		text-transform: uppercase;
 		
 	}
+	
+	
+	nav#osclaa figure{
+		
+		margin:0px ;
+		padding:10px 220px 10px 0px;
+		position:relative;
+	}
+	nav#osclaa figcaption {
+	position:absolute;
+    display:block;
+	top: 0px;
+	left:163px;
+	}
+	nav#osclaa img{
+	border: 4px solid white;
+	box-shadow:1px 1px 4px rgba(0,0,0,.8);
+	}
+	nav#osclaa ul{
+	list-style: none;
+	}
+	nav#osclaa li{
+	display:inline-block;
+	}
